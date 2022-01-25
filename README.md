@@ -2,6 +2,8 @@
 
 ## Demo
 
+**Server**
+
 https://pokemon-and-disney.herokuapp.com/
 
 **Static**
