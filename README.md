@@ -4,6 +4,10 @@
 
 https://pokemon-and-disney.herokuapp.com/
 
+**Static**
+
+https://pokemon-and-disney.netlify.app/
+
 ## Explicação do projeto
 Projeto feito para testar três questões no NUXT: 
 
