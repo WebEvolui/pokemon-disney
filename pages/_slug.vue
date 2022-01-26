@@ -67,7 +67,7 @@ export default {
     };
   },
   async asyncData({ $axios, params }) {
-    const pokemon = await $axios.$get("/pokemon/" + params.slug);
+    const pokemon = await $axios.$get("/pokemon/" + params.slug.toLowerCase());
     return { pokemon };
   },
   mounted() {
